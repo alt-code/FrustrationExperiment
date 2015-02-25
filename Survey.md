@@ -14,8 +14,8 @@ We previously studied other factors of software developers (e.g., Programmer, In
 1 Being the least and 5 being the **severest**
 
 |                       | 1 | 2 | 3 | 4 | 5 |
-| --------------------- | ----------- | --------- | ------ |——— | ——— |
-| Frustration is a problem for me during programming tasks. |  |  |  |  |  |
+| --------------------- | ----------- | --------- | ------ |------ | ------ |
+| Frustration is a problem for me during programming tasks. | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 
 ### When is the last time you were frustrated?
@@ -48,7 +48,7 @@ We previously studied other factors of software developers (e.g., Programmer, In
 ### In the event that you become frustrated, which of the following approaches would you most likely use? 
 
 |                       | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
-| --------------------- | ----------- | --------- | ------ |——— | ——— |
+| --------------------- | ----------- | --------- | ------ |------ | ------ |
 | Find out other people are frustrated on the same task. |  |  |  |  |  |
 | Find out other people are frustrated on the same task, and see how they dealt with it.  |  |  |  |  |  |
 | Receive feedback from a **peer** on how to succeed  |  |  |  |  |  |
