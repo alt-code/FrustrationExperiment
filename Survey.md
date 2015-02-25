@@ -52,10 +52,12 @@ We previously studied other factors of software developers (e.g., Programmer, In
 ## Demographic Questions
 
 Gender
+
 1. Female
 2. Male
 
 Education Completed
+
 1. Freshman
 2. Sophomore
 3. Junior
@@ -65,6 +67,7 @@ Education Completed
 7. Other
  
 Race (Select all that apply)
+
 * White
 * Hispanic or Latino	
 * Black or African American
@@ -73,5 +76,6 @@ Race (Select all that apply)
 * Other
 
 Employment Status
+
 * Employed
 * Student
