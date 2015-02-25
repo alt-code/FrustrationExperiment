@@ -3,7 +3,7 @@
 #Frustration of Software Developers
 We are researches conducting a survey on frustration of software developers.
 
-We previously studied other factors of software developers (e.g., Programmer, Interrupted). Your answers will help researchers gather data about frustration and investigate possible detection and alleviation mechanisms.
+We previously studied other factors of software developers (e.g., [Programmer, Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/)). Your answers will help researchers gather data about frustration and investigate possible detection and alleviation mechanisms.
 
 ## Frustration Experiences
 
