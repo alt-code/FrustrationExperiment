@@ -14,28 +14,28 @@ We previously studied other factors of software developers (e.g., [Programmer, I
 | Frustration is a problem for me during programming tasks. | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 
-### When is the last time you were frustrated?
+When is the last time you were frustrated?
  
-### How did you overcome this frustration?
+How did you overcome this frustration?
 
-### Were there any negative outcomes?  Were there any good things about frustration?
+Were there any negative outcomes?  Were there any good things about frustration?
 
 
 ##Their Methods
 
-### Do you seek assistance from classmates?
+Do you seek assistance from classmates?
 1. Yes
 2. No
 
-### Was it helpful? Why or why not?
+Was it helpful? Why or why not?
 
-### What are some techniques that you use to cope with the frustration during programming tasks?
+What are some techniques that you use to cope with the frustration during programming tasks?
 
-### How helpful do you find these techniques?
+How helpful do you find these techniques?
 
-## Alternative Interventions
+##Alternative Interventions
 
-### In the event that you become frustrated, which of the following approaches would you most likely use? 
+In the event that you become frustrated, which of the following approaches would you most likely use? 
 
 |                       | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
 | --------------------- | ----------- | --------- | ------ |------ | ------ |
@@ -45,11 +45,11 @@ We previously studied other factors of software developers (e.g., [Programmer, I
 | Receive feedback from a **tool** on how to succeed  |  |  |  |  |  |
 | Receive feedback from a **instructor** on how to succeed  |  |  |  |  |  |
 
-### Any other ideas that help?
+Any other ideas that help?
 
-### Additional Questions? Comments?
+Additional Questions? Comments?
 
-## Demographic Questions
+##Demographic Questions
 
 Gender
 
