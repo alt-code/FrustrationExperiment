@@ -24,6 +24,7 @@ Were there any negative outcomes?  Were there any good things about frustration?
 ##Their Methods
 
 Do you seek assistance from classmates?
+
 1. Yes
 2. No
 
